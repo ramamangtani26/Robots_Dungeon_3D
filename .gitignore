@@ -1,0 +1,75 @@
+###
+# Unity project ignores
+###
+[Aa]ssets/AssetStoreTools*
+
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+[Bb]uild/
+[Bb]uilds/
+[Oo]utput/
+[Ll]ogs/
+
+# Large Unity package cache / native runtime files
+Library/PackageCache/
+Library/ArtifactDB/
+Library/SourceAssetDB/
+Library/ScriptAssemblies/
+Library/PackageCache/com.unity.burst@*/.Runtime/*
+
+# Crash / editor generated files
+sysinfo.txt
+*.pidb
+*.pidb.meta
+*.log
+
+###
+# Visual Studio / Mono project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+
+###
+# OS / editor noise
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+###
+# Large media / archive / build artifacts
+###
+# Git does not support size-based ignore rules directly in .gitignore,
+# so large files should be added explicitly here by path or extension.
+/deploy_assets/
+*.unitypackage
+*.zip
+*.7z
+*.tar
+*.gz
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.psd
+*.tga
+*.bmp
+*.apk
+*.aab
+*.exe
+*.dylib
