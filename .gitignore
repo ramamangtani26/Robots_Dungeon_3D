@@ -8,8 +8,8 @@
 [Oo]bj/
 [Tt]emp/
 [Uu]nityGenerated/
-[Bb]uild/
-[Bb]uilds/
+#[Bb]uild/
+#[Bb]uilds/
 [Oo]utput/
 [Ll]ogs/
 

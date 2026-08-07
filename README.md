@@ -10,6 +10,7 @@ An action-packed 3D top-down dungeon crawler built in Unity. Battle tactical AI 
 
 ## 📌 Table of Contents
 * [About the Project](#about-the-project)
+* [Play Online](#play-online)
 * [Built With](#built-with)
 * [Core Features](#core-features)
 * [Project Architecture](#project-architecture)
@@ -24,6 +25,12 @@ An action-packed 3D top-down dungeon crawler built in Unity. Battle tactical AI 
 ## 📖 About the Project
 
 **Robots Dungeon 3D** is a modularly designed action game showcasing scalable architecture patterns in Unity. It cleanly decouples input systems, combat logic, AI behavior profiles, and UI state managers, serving as a robust foundation for a fast-paced hack-and-slash dynamic gameplay loop.
+
+## 🎮 Play Online
+
+You can play the latest WebGL build directly in your browser here:
+
+- [Play Robots Dungeon 3D](https://ramamangtani26.github.io/Robots_Dungeon_3D/)
 
 ---
 
